@@ -1,0 +1,16 @@
+tbIdentNoCtl
+id
+tbCardNoCtl
+cardnum
+tbPasswordCtl
+password
+tbValDateMonthCtl
+08
+tbValDateYearCtl
+12
+tbCVVCtl
+587
+cbBillAddress
+
+tbReceiverMobile
+phonenum
